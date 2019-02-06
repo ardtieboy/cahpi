@@ -6,10 +6,10 @@ Only base set is in the cards.json
 
 ## Installing on raspberry pi
 
-    cd cardsvshumanity
+    cd ~/cardsvshumanity
     scp * pi@192.168.0.201:/home/pi/Desktop/cardsvshumanity
 
-Make sure a cronjob is set:
+Make sure a cronjob is set on the raspberry pi:
 
 To check:
 
